@@ -1,0 +1,4 @@
+TesteJapaMiiller.MainActivity, TesteJapaMiiller;md570432d2d069623e1f2799c027bc0f7d6.MainActivity
+TesteJapaMiiller.MainActivity, TesteJapaMiiller, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570432d2d069623e1f2799c027bc0f7d6.MainActivity
+TesteJapaMiiller.MainActivity;md570432d2d069623e1f2799c027bc0f7d6.MainActivity
+testejapamiiller.MainActivity;md570432d2d069623e1f2799c027bc0f7d6.MainActivity
