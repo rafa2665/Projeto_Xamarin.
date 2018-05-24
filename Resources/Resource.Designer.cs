@@ -60,7 +60,7 @@ namespace TesteJapaMiiller
 			public const int senha = 2130968579;
 			
 			// aapt resource value: 0x7f040005
-			public const int textView1 = 2130968581;
+			public const int texto = 2130968581;
 			
 			static Id()
 			{

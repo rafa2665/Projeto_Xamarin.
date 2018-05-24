@@ -38,6 +38,6 @@
         p1:layout_width="500px"
         p1:layout_height="85px"
         p1:layout_gravity="center|top"
-        p1:id="@+id/textView1"
+        p1:id="@+id/texto"
         p1:gravity="center" />
 </FrameLayout>

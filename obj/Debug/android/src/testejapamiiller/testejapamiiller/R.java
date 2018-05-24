@@ -16,7 +16,7 @@ public final class R {
         public static final int frameLayout1=0x7f040000;
         public static final int logo=0x7f040004;
         public static final int senha=0x7f040003;
-        public static final int textView1=0x7f040005;
+        public static final int texto=0x7f040005;
     }
     public static final class layout {
         public static final int main=0x7f020000;
